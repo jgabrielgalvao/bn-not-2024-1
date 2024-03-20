@@ -24,3 +24,9 @@ npx prisma init --datasource-provider mongodb
 
 # Adicionando o Prisma Client ao projeto
 npm install @prisma/client
+
+
+<!-- ##
+mongodb+srv://josegabriel755:<password>@cluster0.slvs7mo.mongodb.net/
+##
+mongodb+srv://josegabriel755:Josegabriel!JG10$@cluster0.slvs7mo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 -->
